@@ -1,0 +1,22 @@
+.navbar-custom{
+    background-color: #127FC0;
+}
+.navbar-custom.affix {
+    background-color: #127FC0;
+}
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand{
+    background-image: url(../img/logos/visiogen.png);
+    background-repeat: no-repeat;
+    width: 200px;
+    background-size: contain;
+    background-position: center;
+    text-indent: -1000px;
+}
+
+section#contact{
+    background-color: #127FC0;
+}
+
+section#contact .form-group input.form-control,section#contact .form-group textarea.form-control{
+    background-color: #eeeeee;
+}
