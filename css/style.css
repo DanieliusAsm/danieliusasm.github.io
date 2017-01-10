@@ -1,6 +1,3 @@
-.navbar-custom{
-    background-color: #127FC0;
-}
 .navbar-custom.affix {
     background-color: #127FC0;
 }
@@ -13,10 +10,3 @@
     text-indent: -1000px;
 }
 
-section#contact{
-    background-color: #127FC0;
-}
-
-section#contact .form-group input.form-control,section#contact .form-group textarea.form-control{
-    background-color: #eeeeee;
-}
