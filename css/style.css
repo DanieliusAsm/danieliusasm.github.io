@@ -10,3 +10,10 @@
     text-indent: -1000px;
 }
 
+section#contact{
+    background-color: #115583;
+}
+
+section#contact h3.section-subheading{
+    color: #ffffff;
+}
