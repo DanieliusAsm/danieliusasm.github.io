@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /.gitignore
+Disallow: /README.md
+Disallow: /mail/
